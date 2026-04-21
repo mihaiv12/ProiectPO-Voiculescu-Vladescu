@@ -1,0 +1,12 @@
+2026-04-07 12:10:19 [INFO] Aplicatia a pornit.
+2026-04-07 12:10:19 [INFO] Conexiune la baza de date stabilita.
+2026-04-07 12:14:00 [INFO] Conexiune la baza de date stabilita.
+2026-04-07 12:29:26 [INFO] Conexiune la baza de date stabilita.
+2026-04-07 12:30:42 [INFO] Conexiune la baza de date stabilita.
+2026-04-07 12:31:05 [INFO] Conexiune la baza de date stabilita.
+2026-04-07 12:40:23 [ERROR] Eroare: Administratorii nu pot plasa comenzi.
+2026-04-07 12:40:23 [INFO] ADMIN ACTION: admin.bricolaj@shop.ro a marcat pe client.fidel@yahoo.com ca fiind PROBLEMATIC
+2026-04-07 12:40:23 [ERROR] Comanda respinsa: Clientul problematic client.fidel@yahoo.com trebuie sa plateasca Online.
+2026-04-07 12:40:23 [INFO] Comanda plasata cu succes pentru clientul: client.fidel@yahoo.com
+2026-04-07 19:50:46 [ERROR] Comanda respinsa: Clientul problematic vlad.constructor@yahoo.com trebuie sa plateasca Online.
+2026-04-07 20:09:58 [ERROR] Comanda respinsa: Clientul problematic vlad.constructor@yahoo.com trebuie sa plateasca Online.
